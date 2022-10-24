@@ -58,9 +58,9 @@ URL = "contact/"
 weight = 4
 
 [[menu.main]]
-name = "CV"
-URL = "cv/"
-weight = 6
+name = "Sample Page"
+URL = "sample-page/"
+weight = 5
 
 # only desktop menu
 [[menu.desktop]]
