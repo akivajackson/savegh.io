@@ -56,7 +56,7 @@ Recipient of Princeton University Tiger Futures Service Fellowship
 **Princeton University**, Princeton NJ &ensp; _June 2020_  
 Bachelor of Arts in Comparative Literature; Certificate in German Language and Culture  
 GPA: 3.74 | Honors: Department of German Book Prize for Excellence in German Studies   
-Senior Thesis: Contradiction & Dichotomy: David Bergelson and Itzik Manger Confront the Bible   
+Senior Thesis: _Contradiction & Dichotomy: David Bergelson and Itzik Manger Confront the Bible_   
   
 ### Skills
 **Languages:** English (native), German, Hebrew, Yiddish (proficient), Spanish (conversational)  
