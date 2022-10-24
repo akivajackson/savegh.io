@@ -1,7 +1,7 @@
 ---
 title: "Warring over Yiddish Poetry: Retranslating Morris Rosenfeld as a Political Zionist"
 date: 2019-01-05T21:54:05-04:00
-image : "images/2020-three-quarters-4.png"
+image : "images/lieder.jpg"
 # author
 author : ["Akiva"]
 # categories
@@ -15,9 +15,9 @@ draft: false
 
 My second independent project in college: analyzing how the German translation of Morris Rosenfeld's Yiddish sweatshop poetry changd it from a messianic work into political zionist poems. 
 
-Plus some analysis of awesome art deco drawings by E.M. Lilien!
+Plus some analysis of awesome art deco drawings by E.M. Lilien, like the one above!
 
- ![lieder](/images/lieder.jpg)
+ <!-- ![lieder](/images/lieder.jpg) -->
 <br><br>
 
 {{< embed-pdf url="./pdfs/Jackson_JP2.pdf" >}}
