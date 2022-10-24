@@ -58,14 +58,24 @@ URL = "contact/"
 weight = 4
 
 [[menu.main]]
-name = "Sample Page"
+name = "CV"
 URL = "sample-page/"
 weight = 5
+
+# [[menu.main]]
+# name = "CV"
+# URL = "cv/"
+# weight = 6
 
 # only desktop menu
 [[menu.desktop]]
 name = "Contact"
 URL = "contact/"
+weight = 1
+
+[[menu.desktop]]
+name = "Tutoring"
+URL = "tutoring/"
 weight = 1
 
 
@@ -99,7 +109,7 @@ heading = "Read about all my fun data explorations and gratuitous overthinking."
 enable = true
 title = "Contact me."
 content = "Wanna hire me to design your website, do your data analysis, or chat about yiddish?"
-button_label = "Contact Us"
+button_label = "Contact Me"
 button_url = "contact/"
 
 # gallery
